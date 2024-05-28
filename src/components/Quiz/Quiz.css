@@ -59,3 +59,12 @@
   cursor: pointer;
   width: 150px;
 }
+
+.container .correct {
+  background-color: #b5fccc;
+  border: 1px solid #88f8ab;
+}
+.container .wrong {
+  background-color: #fac5c5;
+  border: 1px solid #ee8282;
+}
