@@ -63,6 +63,10 @@ h2 {
   width: 150px;
 }
 
+.reset {
+  margin-bottom: 1rem;
+}
+
 .container .correct {
   background-color: #b5fccc;
   border: 1px solid #88f8ab;
